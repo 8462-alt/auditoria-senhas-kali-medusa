@@ -1,0 +1,10 @@
+# Arquivos locais e segredos
+.env
+*.log
+*.pcap
+*.ova
+*.vdi
+*.vbox
+*.vbox-prev
+.DS_Store
+Thumbs.db
